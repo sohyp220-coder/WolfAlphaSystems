@@ -26,7 +26,7 @@ links.forEach(link => {
             } else if (val === 'contact') {
                 mainContent.innerHTML = `
                     <h2 style="color:white; margin-bottom:20px;">تواصل معنا</h2>
-                    <a href='https://wa.me/+20103211365' 
+                    <a href='https://wa.me/+201063211365' 
                        style="color:white; background:#25D366; padding:15px 30px; border-radius:10px; font-family:serif; text-decoration:none; display:flex; align-items:center; gap:10px;">
                        WhatsApp Support
                     </a>
